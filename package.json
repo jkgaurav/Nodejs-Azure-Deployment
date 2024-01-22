@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-azure-deployment",
+  "version": "1.0.0",
+  "description": "Node.js app deployed to Azure App Service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
